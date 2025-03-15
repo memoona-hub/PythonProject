@@ -14,6 +14,7 @@
 - Python 3.12 
 - PyCharm IDE
 - Virtual environment (venv)
+  - open pycharm terminal and run cmd "cd .env" , then → "cd ./scripts" , then  → "./activate"
  - Libraries required:-
    - pip install streamlit
    - pip install docx
