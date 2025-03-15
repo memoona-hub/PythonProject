@@ -1,7 +1,6 @@
 import requests
 import re
 import streamlit as st
-from crewai import Agent, Task, Crew, Process, LLM
 from fpdf import FPDF
 from docx import Document
 import io
