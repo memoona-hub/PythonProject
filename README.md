@@ -9,4 +9,28 @@
 - Short Question Generation Agent: Generates short questions based on the provided pdf content.
 - Select question type: User can select the type of questionnaire (mcqs/short question) to create relevant assessment file.
 - Select download file format (pdf/word): - User select file format to download the questionnaire generated.
+## Project Setup
+### Prerequisites:
+- Python 3.12 
+- PyCharm IDE
+- Virtual environment (venv)
+ - Libraries required:-
+   - pip install streamlit
+   - pip install docx
+   - pip install fpdf
+   - pip install PyPDF2
+   - pip install streamlit fpdf python-docx
+  
+#### For using "app_with_crewai"
+- Create cloud API for Groq
+ - Libraries required:-
+   - pip install crewai
+   - pip install groq
+   - pip install tools
+   - pip install litellm
 
+#### For using "app_with_local_models"
+- download Ollama
+- run command "ollama pull <model_name>"
+- run command "ollama serve" to launch ollama setup
+  
