@@ -33,4 +33,6 @@
 - download Ollama
 - run command "ollama pull <model_name>"
 - run command "ollama serve" to launch ollama setup
-  
+## Technologies Used
+- Frontend: Streamlit
+- Backend: Python, ollama
