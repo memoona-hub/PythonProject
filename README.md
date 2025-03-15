@@ -22,7 +22,7 @@
    - pip install streamlit fpdf python-docx
   
 #### For using "app_with_crewai"
-- Create cloud API for Groq
+- create cloud API for Groq
  - Libraries required:-
    - pip install crewai
    - pip install groq
