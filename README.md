@@ -36,3 +36,5 @@
 ## Technologies Used
 - Frontend: Streamlit
 - Backend: Python, ollama
+
+#### Command to Run (in pycharm terminal):- "streamlit run <app_name>.py"
